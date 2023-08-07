@@ -1,0 +1,24 @@
+header{
+    background-color: #4C42FD;
+    padding: 25px;
+    text-align: center;
+}
+
+nav{
+    padding-top: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: #FFF;
+    padding: 7px;
+    border-radius: 7px;
+    color: #4C42FD;
+    transition: .7s
+}
+
+nav a:hover{
+    color: #FFF;
+    background-color: #3429ff;
+    padding: 10px;;
+}
